@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/johnny/AndroidStudioProjects/CanvasTest/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/johnny/AndroidStudioProjects/CanvasTest/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/johnny/AndroidStudioProjects/CanvasTest/app/build/intermediates/res/merged/debug/layout/fragment_main.xml",
+        "source": "/home/johnny/AndroidStudioProjects/CanvasTest/app/src/main/res/layout/fragment_main.xml"
+    }
+]
